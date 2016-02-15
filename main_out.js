@@ -5,7 +5,7 @@
      * Example: 127.0.0.1:443
      *
      */
-    var CONNECTION_URL = "thisisntit123321123321.herokuapp.com";
+    var CONNECTION_URL = "http://mathfun192.epizy.com:80";
     /**
      * Enter path to the skin image folder
      * To take skins from the official server enter: "http://agar.io/skins/"
